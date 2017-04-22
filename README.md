@@ -7,7 +7,7 @@ R入门：Rstudio介绍及Rmarkdown写文档
 基础数据结构介绍
 
 ###class3-Basic R programming language
-R基础学习-控制流、函数、pply族
+R基础学习-控制流、函数、apply族
 
 ###class4-quant-master
 量化投资研究：R语言实现
@@ -17,3 +17,9 @@ R基础学习-控制流、函数、pply族
 
 ###class6-Regular expression and stringr
 字符串操作：正则表达式及stringr
+
+###class7-Data visualization and ggplot2
+数据可视化及ggplot2入门
+
+###class8-Introduction to Database
+数据库入门
